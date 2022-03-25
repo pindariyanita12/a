@@ -1,0 +1,8 @@
+crud operations (insert,select,update,delete)
+joins(inner,full,left,right)
+aggregate functions(avg,min,max,sum)
+limit offset
+alias,and,or,not
+union,having
+primary,unique,foreign
+
